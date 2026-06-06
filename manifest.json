@@ -1,0 +1,14 @@
+{
+    "display_name": "Token 统计 (实时计价)",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "dependencies": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "rskzayton",
+    "version": "1.0.0",
+    "homePage": "https://github.com/rskzayton/st-token-checker",
+    "auto_update": true,
+    "minimum_client_version": "1.12.0"
+}
